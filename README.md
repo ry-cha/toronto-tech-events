@@ -32,9 +32,10 @@
 | Dec 11 2025 | [One+One: Holiday Social for Creators, Thinkers, and Builders](https://luma.com/23uakizw) | Luma |
 | Dec 11 2025 | [ChaiTech Startup Showcase V - Presented by the Ontario Jewish Startup Network](https://luma.com/2mlz181k) | Luma |
 | Dec 11 2025 | [Startup Investor Drinks Toronto](https://luma.com/b46km5sm) | Luma |
+| Dec 11 2025 | [Nerd Show and Tell](https://luma.com/45d1r20a) | Luma |
 | Dec 11 2025 | [TruNorth CyberSphere End of Year Dinner](https://luma.com/y2f0bup8) | Luma |
 | Dec 11 2025 | [TruNorth CyberSphere End of Year Dinner](https://luma.com/zeqrh58z) | Luma |
-| Dec 11 2025 | [Dec 11-12 25](https://dev.events/ical/clean-code-xlj8kspf) | DevEvents |
+| Dec 11 2025 | [CLEAN CODE: THE NEXT LEVEL](https://cleancode.training/) | DevEvents |
 | Dec 12 2025 | [Caffeinated Innovators](https://luma.com/ctp7jpfi) | Luma |
 | Dec 12 2025 | [Holiday Networking Night for Founders & Business Leaders](https://luma.com/gs3hlho7) | Luma |
 | Dec 12 2025 | [HOLI-TECH Toronto Party - Polarity Labs X Clover Labs](https://luma.com/4knimluu) | Luma |
@@ -55,7 +56,7 @@
 | Jan 14 2026 | [Intro to Artificial Intelligence](https://brainstation.io/events/intro-to-artificial-intelligence-to-20260114) | Brainstation |
 | Jan 21 2026 | [Commerce Toronto](https://luma.com/commerce-jan-21-2026) | Luma |
 | Jan 22 2026 | [Proptech in Canada 2025 Report Launch](https://luma.com/2h98g5fp) | Luma |
-| Jan 22 2026 | [Jan 22-23 26](https://dev.events/ical/principal-developer-online-5-2022) | DevEvents |
+| Jan 22 2026 | [THE PRINCIPAL DEV – MASTERCLASS FOR TECH LEADS](https://principal.dev/) | DevEvents |
 | Jan 24 2026 | [BFN Black Career Conference Pitch Competition 2026](https://luma.com/6r1pwh7f) | Luma |
 | Jan 25 2026 | [International Conference on Engineering & Technology (ICET)](https://10times.com/international-conference-on-engineering-technolo) | 10times |
 | Jan 26 2026 | [Annual Forum on U.S. Export & Reexport Compliance For Canadian Operations](https://10times.com/e1d1-72d8-xkfr-f) | 10times |
@@ -74,7 +75,7 @@
 | Mar 18 2026 | [Toronto MeetUp](https://10times.com/e1hr-h5z0-p2h2-k-toronto-meetup) | 10times |
 | Mar 18 2026 | [CX Public Sector Summit](https://10times.com/e1h4-p4s2-z5hg-f) | 10times |
 | Mar 24 2026 | [React Advanced Canada](https://10times.com/e10h-gd8p-dx0r-7) | 10times |
-| Mar 24 2026 | [Mar 24 26](https://dev.events/ical/react-advanced-canada-nfqumhra) | DevEvents |
+| Mar 24 2026 | [REACT ADVANCED CANADA](https://dev.events/conferences/react-advanced-canada-nfqumhra) | DevEvents |
 | Mar 25 2026 | [CIX Summit](https://10times.com/cie-a) | 10times |
 | Mar 25 2026 | [Toronto CISO Community Inner Circle](https://10times.com/toronto-ciso-executive) | 10times |
 | Mar 25 2026 | [True North Spatial 2026 by Panoramics - A Vision INC.](https://luma.com/tns2026) | Luma |
@@ -85,9 +86,9 @@
 | Apr 11 2026 | [Regional Council Meetings](https://10times.com/e1hp-5pd6-g1kx-4) | 10times |
 | Apr 13 2026 | [FinCyber Today Canada](https://10times.com/e1zk-fg43-fs55) | 10times |
 | Apr 14 2026 | [ManuSec World](https://10times.com/e1kg-r065-0dhp) | 10times |
-| Apr 23 2026 | [Apr 23 26](https://dev.events/ical/qa-financial-forum-toronto-2026-j3tw80s3) | DevEvents |
-| May 05 2026 | [May 5-8 26](https://dev.events/ical/ndc-toronto-2026-dm9pdgo0) | DevEvents |
-| May 25 2026 | [May 25-29 26](https://dev.events/ical/toronto-tech-week-v8uctjwq) | DevEvents |
+| Apr 23 2026 | [QA FINANCIAL FORUM TORONTO 2026](https://dev.events/conferences/qa-financial-forum-toronto-2026-j3tw80s3) | DevEvents |
+| May 05 2026 | [NDC TORONTO 2026](https://dev.events/conferences/ndc-toronto-2026-dm9pdgo0) | DevEvents |
+| May 25 2026 | [TORONTO TECH WEEK](https://dev.events/conferences/toronto-tech-week-v8uctjwq) | DevEvents |
 | May 26 2026 | [Freedom Freelancers Encore Launch](https://luma.com/w0470zuq) | Luma |
-| May 27 2026 | [May 27-28 26](https://dev.events/ical/cto-craft-con-toronto-2025-szrnq4g9) | DevEvents |
-| May 28 2026 | [May 28-29 26](https://dev.events/ical/clean-architecture-online-4-2023) | DevEvents |
+| May 27 2026 | [CTO CRAFT CON: TORONTO 2025](https://dev.events/conferences/cto-craft-con-toronto-2025-szrnq4g9) | DevEvents |
+| May 28 2026 | [CLEAN ARCHITECTURE MASTERCLASS](https://clean.re/) | DevEvents |
