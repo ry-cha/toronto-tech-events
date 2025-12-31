@@ -1,6 +1,6 @@
 # Toronto Tech Events
- 
-*Last Updated: 2025-12-30 16:56*
+
+*Last Updated: 2025-12-31 17:04*
 
 ### Categories
 - [Engineering](#engineering)
@@ -19,18 +19,18 @@
 | Sun,&nbsp;Jan&nbsp;11 | [Shut Up & Code - NORTH YORK (Finch and Yonge)](https://luma.com/mtid8z5c) | Luma |
 | Sun,&nbsp;Jan&nbsp;18 | [Shut Up & Code - MISSISSAUGA (Studio.89)](https://luma.com/8rg727pw) | Luma |
 | Thu,&nbsp;Jan&nbsp;22 | [THE PRINCIPAL DEV – MASTERCLASS FOR TECH LEADS](https://principal.dev/) | dev.events |
-| Tue,&nbsp;Mar&nbsp;24 | [React Advanced Canada](https://10times.com/e10h-gd8p-dx0r-7) | 10times |
 | Tue,&nbsp;Mar&nbsp;24 | [REACT ADVANCED CANADA](https://dev.events/conferences/react-advanced-canada-nfqumhra) | dev.events |
+| Tue,&nbsp;Mar&nbsp;24 | [React Advanced Canada](https://10times.com/e10h-gd8p-dx0r-7) | 10times |
 | Thu,&nbsp;Apr&nbsp;23 | [QA FINANCIAL FORUM TORONTO 2026](https://dev.events/conferences/qa-financial-forum-toronto-2026-j3tw80s3) | dev.events |
 | Tue,&nbsp;May&nbsp;05 | [NDC TORONTO 2026](https://dev.events/conferences/ndc-toronto-2026-dm9pdgo0) | dev.events |
 | Wed,&nbsp;May&nbsp;13 | [KCD TORONTO CANADA 2026](https://dev.events/conferences/kcd-toronto-canada-2026-2c-axqah) | dev.events |
 | Mon,&nbsp;May&nbsp;25 | [TORONTO TECH WEEK](https://dev.events/conferences/toronto-tech-week-v8uctjwq) | dev.events |
 | Wed,&nbsp;May&nbsp;27 | [CTO CRAFT CON: TORONTO 2026](https://dev.events/conferences/cto-craft-con-toronto-2025-szrnq4g9) | dev.events |
 | Thu,&nbsp;May&nbsp;28 | [CLEAN ARCHITECTURE MASTERCLASS](https://clean.re/) | dev.events |
-| Tue,&nbsp;Jun&nbsp;30 | [Global Conference on Cyber Security and Cloud Engineering (GCCSCE)](https://10times.com/e14k-z9kr-4kd5) | 10times |
-| Sun,&nbsp;Aug&nbsp;30 | [Toronto International Conference on Recent Innovations in Engineering and Technology](https://10times.com/e1h0-f8g1-ghs1-z) | 10times |
+| Mon,&nbsp;Aug&nbsp;31 | [Toronto International Conference on Recent Innovations in Engineering and Technology](https://10times.com/e1h0-f8g1-ghs1-z) | 10times |
 | Thu,&nbsp;Sep&nbsp;24 | [CLEAN CODE: THE NEXT LEVEL](https://cleancode.training/) | dev.events |
 | Wed,&nbsp;Nov&nbsp;11 | [PRODUCT-LED SUMMIT TORONTO](https://dev.events/conferences/product-led-summit-toronto-l-8eedxh) | dev.events |
+| Fri,&nbsp;Dec&nbsp;31 | [Global Conference on Cyber Security and Cloud Engineering (GCCSCE)](https://10times.com/e14k-z9kr-4kd5) | 10times |
 
 ## Data & AI
 
@@ -45,7 +45,7 @@
 | Wed,&nbsp;Mar&nbsp;18 | [How to Use GenAI for Personalization](https://10times.com/e1hz-5hz9-r2d5-z-use-genai-personalization) | 10times |
 | Wed,&nbsp;Mar&nbsp;25 | [True North Spatial 2026 by Panoramics - A Vision INC.](https://luma.com/tns2026) | Luma |
 | Wed,&nbsp;Apr&nbsp;08 | [Sheldon Fernandez: The Theological Implications of Artificial Intelligence](https://10times.com/e1hz-h58r-x0fh-3-sheldon-fernandez-theological-implications-artificial-intelligence) | 10times |
-| Mon,&nbsp;Nov&nbsp;30 | [Annual People Analytics Summit](https://10times.com/people-analytics-toronto) | 10times |
+| Thu,&nbsp;Dec&nbsp;31 | [Annual People Analytics Summit](https://10times.com/people-analytics-toronto) | 10times |
 
 ## Product & Design
 
@@ -77,7 +77,7 @@
 | Wed,&nbsp;Feb&nbsp;11 | [Leaders in Fintech](https://brainstation.io/events/leadership/leaders-in-fintech-20260211) | Brainstation |
 | Tue,&nbsp;Feb&nbsp;24 | [Health Toronto](https://luma.com/health-toronto-feb-24-2026) | Luma |
 | Tue,&nbsp;Apr&nbsp;21 | [Commerce Toronto](https://luma.com/commerce-apr-21-2026) | Luma |
-| Tue,&nbsp;Jun&nbsp;30 | [Global Conference on African Business and Technology (GCABT)](https://10times.com/e1d4-3d38-sdss-s) | 10times |
+| Fri,&nbsp;Dec&nbsp;31 | [Global Conference on African Business and Technology (GCABT)](https://10times.com/e1d4-3d38-sdss-s) | 10times |
 
 ## Networking
 
@@ -89,9 +89,11 @@
 | Tue,&nbsp;Jan&nbsp;13 | [Toronto Healthtech Social by Scalpels & Spreadsheets](https://luma.com/99516500) | Luma |
 | Sat,&nbsp;Jan&nbsp;17 | [Code Diversity Monthly Coffee Chats](https://luma.com/mbafwfgu) | Luma |
 | Tue,&nbsp;Jan&nbsp;20 | [COIE Information Session (in-person)](https://luma.com/itlq543d) | Luma |
+| Wed,&nbsp;Jan&nbsp;21 | [🍺 Builders & Business Leaders Meetup: Commerce & Digital Transformation Forum](https://luma.com/twngqtqm) | Luma |
 | Thu,&nbsp;Jan&nbsp;22 | [Proptech in Canada 2025 Report Launch](https://luma.com/2h98g5fp) | Luma |
 | Thu,&nbsp;Jan&nbsp;22 | [Fuckup Nights Toronto: Vol LXV (January)](https://luma.com/FUNTOJAN22) | Luma |
 | Sun,&nbsp;Jan&nbsp;25 | [Civic Space Sunday](https://luma.com/civic-space-2026-jan) | Luma |
+| Mon,&nbsp;Feb&nbsp;02 | [Together Toronto](https://luma.com/together-toronto-feb-2-2026) | Luma |
 | Thu,&nbsp;Feb&nbsp;05 | [Product After-Hours TO](https://brainstation.io/events/product-after-hours-toronto) | Brainstation |
 | Thu,&nbsp;Feb&nbsp;05 | [BEA's Investment Bootcamp Demo Day](https://luma.com/qdqqia6w) | Luma |
 | Tue,&nbsp;Mar&nbsp;03 | [Global Goals Jam Canada: Winter 2026](https://luma.com/vjhrv1eo) | Luma |
@@ -115,7 +117,8 @@
 | Wed,&nbsp;Mar&nbsp;25 | [CIX Summit](https://10times.com/cie-a) | 10times |
 | Tue,&nbsp;Mar&nbsp;31 | [Future of Work Canada](https://10times.com/e1r0-p0r0-x1hk) | 10times |
 | Tue,&nbsp;Mar&nbsp;31 | [N Summit](https://10times.com/e1hr-013r-5dpf-h-n-summit) | 10times |
-| Thu,&nbsp;Jul&nbsp;30 | [Canadian Undergraduate Conference on AI](https://10times.com/e1h1-2r3x-2rfz-z-canadian-undergraduate-conference-ai) | 10times |
-| Sun,&nbsp;Aug&nbsp;30 | [Cyber Risk Summit Conference](https://10times.com/netdiligence-cyber-risk-summit-conferences) | 10times |
-| Fri,&nbsp;Oct&nbsp;30 | [Real Time Crime Centre Operations & Tech Integration](https://10times.com/e1hr-5051-sssk-x-real-time-crime-centre-operations-tech-integration) | 10times |
+| Sat,&nbsp;Apr&nbsp;11 | [Regional Council Meetings](https://10times.com/e1hp-5pd6-g1kx-4) | 10times |
+| Fri,&nbsp;Jul&nbsp;31 | [Canadian Undergraduate Conference on AI](https://10times.com/e1h1-2r3x-2rfz-z-canadian-undergraduate-conference-ai) | 10times |
+| Mon,&nbsp;Aug&nbsp;31 | [Cyber Risk Summit Conference](https://10times.com/netdiligence-cyber-risk-summit-conferences) | 10times |
+| Sat,&nbsp;Oct&nbsp;31 | [Real Time Crime Centre Operations & Tech Integration](https://10times.com/e1hr-5051-sssk-x-real-time-crime-centre-operations-tech-integration) | 10times |
 
